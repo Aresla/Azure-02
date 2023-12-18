@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/sK3Nv99opVZpme6BsCQ0/V2YdjPRU6GCiEKUUvTdYhcNQR7eotvpCAm527x05u8+srrAiXCG7lJ34NKz0vyw==",
+  "success": true,
+  "projectFilePath": "/Users/s2300301/Documents/portfolio/ammattitiliset-tutkinnon-osat/ohjelmistokehittaja/ohjelmointi/azure-devops/Azure02/Azure02/Azure02.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2300301/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/s2300301/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/s2300301/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/s2300301/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/s2300301/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/s2300301/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/s2300301/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
