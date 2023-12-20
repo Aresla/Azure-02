@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pOXv5EJXPrGWI6YwCMPDzuiEoPKAUDSc4amosNoNvSTv8UW4eHc1P5L4zKlJC59rw4CRZM0JNkqjVbVTCgWl9Q==",
+  "dgSpecHash": "V6kr4i6xHnyNuuBoAECVaooKG30u8+xzQEJMBKytBqqV1ph30iUW8u6b/QeFnUE4jmvMGKisPF5B4Dj2WN/dfw==",
   "success": true,
-  "projectFilePath": "/Users/s2300301/Documents/portfolio/ammattitiliset-tutkinnon-osat/ohjelmistokehittaja/ohjelmointi/azure-devops/Azure02/Azure02/Azure02.csproj",
+  "projectFilePath": "/Users/s2300301/Documents/portfolio/ammattitiliset-tutkinnon-osat/ohjelmistokehittaja/ohjelmointi/azure-devops/Azure02/Azure02.csproj",
   "expectedPackageFiles": [
     "/Users/s2300301/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/s2300301/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
